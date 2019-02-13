@@ -1,0 +1,3 @@
+[submodule "42-libft"]
+	path = libft
+	url = https://github.com/apelykh/42-libft
